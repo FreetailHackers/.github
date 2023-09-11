@@ -1,6 +1,6 @@
 # Hello!
 
-Welcome to Freetail Hackers' Github page. This is a read-only mirror. Our development takes place on GitLab: [https://gitlab.com/freetail-hackers]()
+Welcome to Freetail Hackers' Github page. This is a read-only mirror. Our development takes place on GitLab: [https://gitlab.com/freetail-hackers](https://gitlab.com/freetail-hackers)
 
 ## Projects
 - [Rodeo](https://gitlab.com/freetail-hackers/rodeo) - An all-in-one web app for running and experiencing a hackathon end-to-end.
